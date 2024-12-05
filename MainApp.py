@@ -1,3 +1,5 @@
 print("Hello Word")
 print ("Buna dimineata")
 print ("Buna ziua")
+print ("La revedere")
+print ("Bye")
